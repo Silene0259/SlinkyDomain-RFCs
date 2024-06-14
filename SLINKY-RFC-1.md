@@ -38,5 +38,7 @@ A Pivot Contains the following
 Schnorr Signatures are used throughout slinky.
 
 `Encoding:` BASE32 (CROCKFORD)
+
 `Public Key Length:` 52 characters
+
 `Secret Key Length:` 103 characters
